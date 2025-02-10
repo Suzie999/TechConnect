@@ -5,6 +5,6 @@ Some time ago, I received a dataset to prepare a presentation for an interview, 
 To ensure privacy and compliance, I transformed the dataset by changing the industry, objectives, and all references to the original context. This required adapting the analysis to a new scenario, proving the relevance of the insights in a completely different industry.
 
 ## 🔗 Download the Power BI File  
-📥 [Google Drive (Direct PBIX Download)]([https://drive.google.com/file/d/1JLjo86dra46lGk9cOX1cb1YrkDmvRxAl/view?usp=sharing ](https://drive.google.com/uc?export=download&id=1JLjo86dra46lGk9cOX1cb1YrkDmvRxAl
-)  
-📥 [GitHub Release Download](https://github.com/Suzie999/TechConnect))  
+📥 [Google Drive (Direct PBIX Download)] https://drive.google.com/uc?export=download&id=1JLjo86dra46lGk9cOX1cb1YrkDmvRxAl
+
+📥 [GitHub Release Download](https://github.com/Suzie999/TechConnect) 
