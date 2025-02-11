@@ -6,4 +6,4 @@ To ensure privacy and compliance, I transformed the dataset by changing the indu
 
 ## 🔗 Download the Power BI File  
 📥 [Google Drive (Direct PBIX Download)](https://drive.google.com/uc?export=download&id=1kZQQun6Lcv6nneoZTaWwSttUfS63bzq-)
-📥 [GitHub Release Download](https://github.com/Suzie999/TechConnect) 
+
